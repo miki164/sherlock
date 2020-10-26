@@ -1981,6 +1981,13 @@
     "username_claimed": "blue",
     "username_unclaimed": "noonewouldeverusethis7"
   },
+  "jbzd.com.pl": {
+    "errorType": "status_code",
+    "url": "https://jbzd.com.pl/uzytkownik/{}",
+    "urlMain": "https://jbzd.com.pl/",
+    "username_claimed": "white",
+    "username_unclaimed": "noonewouldeverusethis7"
+  }
   "jeuxvideo": {
     "errorMsg": "Vous \u00eates",
     "errorType": "message",
